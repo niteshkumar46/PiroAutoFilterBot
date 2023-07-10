@@ -49,7 +49,7 @@ class script(object):
 Special Thanks to EvaMaria Devs & Cloners for the codes 
 <b>DEV:</b>
 
-- <a href=https://t.me/TOP_HD_MOVIE_OFFICIAL>[𝖯𝖨𝖱𝖮]</a>
+- <a href=https://t.me/TOP_HD_MOVIE_OFFICIAL>[REPO]</a>
 
 - Source - https://t.me/TOP_HD_MOVIE_OFFICIAL""" #please don't change repo link give credit :)
 
@@ -176,7 +176,7 @@ Request Again"""
 • 𝖭𝗈 𝖯𝗋𝗈𝗆𝗈, 𝖭𝗈 𝖯𝗈𝗋𝗇, 𝖭𝗈 𝖮𝗍𝗁𝖾𝗋 𝖠𝖻𝗎𝗌𝖾𝗌
 • 𝖠𝗌𝗄 𝖸𝗈𝗎𝗋 𝖬𝗈𝗏𝗂𝖾𝗌 𝖶𝗂𝗍𝗁 𝖢𝗈𝗋𝗋𝖾𝖼𝗍 𝖲𝗉𝖾𝗅𝗅𝗂𝗇𝗀
 • 𝖲𝗉𝖺𝗆𝗆𝖾𝗋𝗌 𝖲𝗍𝖺𝗒 𝖠𝗐𝖺𝗒
-• 𝖥𝖾𝖾𝗅 𝖥𝗋𝖾𝖾 𝖳𝗈 𝖱𝖾𝗉𝗈𝗋𝗍 𝖠𝗇𝗒 𝖤𝗋𝗋𝗈𝗋𝗌 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇𝗌 𝗎𝗌𝗂𝗇𝗀 @admin
+• 𝖥𝖾𝖾𝗅 𝖥𝗋𝖾𝖾 𝖳𝗈 𝖱𝖾𝗉𝗈𝗋𝗍 𝖠𝗇𝗒 𝖤𝗋𝗋𝗈𝗋𝗌 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇𝗌 𝗎𝗌𝗂𝗇𝗀 @NKP_PRODUCTIONS
 
 <u>𝗥𝗲𝗾𝘂𝗲𝘀𝘁𝘀 𝗙𝗼𝗿𝗺𝗮𝘁𝘀</u>
 
@@ -186,7 +186,6 @@ Request Again"""
 • 𝖣𝖺𝗋𝗄 𝗌01
 • 𝖲𝗁𝖾 𝖧𝗎𝗅𝗄 720𝗉
 • 𝖥𝗋𝗂𝖾𝗇𝖽𝗌 𝗌03 1080𝗉
-• 𝖬𝗎𝗌𝗍 𝗋𝖾𝖺𝖽 𝗍𝗁𝗂𝗌 https://te.legra.ph/𝖯𝗈𝗐𝖾𝗋𝖾𝖽-𝖡𝗒-NKP-12-11-2
 
 ‼️𝗗𝗼𝗻𝘁 𝗮𝗱𝗱 𝘄𝗼𝗿𝗱𝘀 & 𝘀𝘆𝗺𝗯𝗼𝗹𝘀 𝗹𝗶𝗸𝗲 , . -  send link movie series 𝗲𝘁𝗰‼️"""
 
@@ -216,7 +215,7 @@ Message <b>: {}</b>"""
 🔮 𝖸𝖾𝖺𝗋: {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  
 🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} 
 
-🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [[𝖯𝖨𝖱𝖮]](t.me/NKP_PRODUCTIONS)"""
+🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [[owner]](t.me/NKP_PRODUCTIONS)"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -251,4 +250,4 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 <b><u>𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽 ✅</u></b>"""
 
     LOGO = """
-PIRO BOTS"""
+NKP BOTS"""
